@@ -1,0 +1,6 @@
+name: getting-started-basic-weather-app
+region: us-east-1
+cloudProvider: genezio
+scripts:
+    preBackendDeploy: npm install
+language: ts
